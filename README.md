@@ -1,4 +1,4 @@
-### Hi there! Carlos here!
+### Hi there, Carlos here!
 
 
 - 🌱 I’m currently learning Python, SQL and JavaScript 
