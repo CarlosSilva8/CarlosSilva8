@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: carloshenrique101@usp.br
-- 😄 Pronouns: he/his
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosSilva8&show_icons=true&theme=merko),
 
