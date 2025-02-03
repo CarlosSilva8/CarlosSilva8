@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: carloshenrique101@usp.br
 
-![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosSilva8&show_icons=true&theme=merko&count_private=true&include_all_commits=true)
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosSilva8&show_icons=true&theme=merko&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 <div> 
   <a href="https://www.instagram.com/carlos.hds_/?next=%2Fcarlos.hds_%2F" target="_blank">
