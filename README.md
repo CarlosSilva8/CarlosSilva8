@@ -62,8 +62,6 @@ Repository:
 
 ## GitHub stats
 
-## GitHub stats
-
 ![Carlos Silva GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CarlosSilva8&show_icons=true&include_all_commits=true&rank_icon=github&theme=merko)
 
 ## Main languages
