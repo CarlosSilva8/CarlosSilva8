@@ -62,16 +62,11 @@ Repository:
 
 ## GitHub stats
 
-## GitHub stats
+![Carlos Silva GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CarlosSilva8&show_icons=true&include_all_commits=true&rank_icon=github&theme=merko)
 
-## GitHub stats
+![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CarlosSilva8&layout=compact&theme=merko&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css&custom_title=Most%20Used%20Languages)
 
-![Carlos Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosSilva8&show_icons=true&include_all_commits=true&rank_icon=github&theme=merko)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSilva8&layout=compact&theme=merko&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css&custom_title=Most%20Used%20Languages)
-
-
-
+<sub>The language card uses public repositories and GitHub Linguist data. Notebook and markup-heavy languages are hidden so the card better reflects the programming languages I use.</sub>
 
 ---
 
