@@ -62,10 +62,13 @@ Repository:
 
 ## GitHub stats
 
+## GitHub stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarlosSilva8&show_icons=true&include_all_commits=true&rank_icon=github&theme=merko" alt="Carlos Silva GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSilva8&layout=compact&theme=merko&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css&custom_title=Most%20Used%20Languages" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarlosSilva8&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;theme=merko" alt="Carlos Silva GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSilva8&amp;layout=compact&amp;theme=merko&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide=jupyter%20notebook,html,css&amp;custom_title=Most%20Used%20Languages" alt="Most used languages" />
 </p>
+
 
 
 ---
