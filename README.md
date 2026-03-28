@@ -67,7 +67,6 @@ Repository:
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSilva8&layout=compact&theme=merko&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css&custom_title=Most%20Used%20Languages" alt="Most used languages" />
 </p>
 
-<sub>The language card uses public repositories and GitHub Linguist data. I hid notebook and markup-heavy languages so the stack shown is closer to the programming languages I actually use.</sub>
 
 ---
 
