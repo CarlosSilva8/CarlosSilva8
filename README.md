@@ -62,11 +62,12 @@ Repository:
 
 ## GitHub stats
 
+## GitHub stats
+
 ![Carlos Silva GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CarlosSilva8&show_icons=true&include_all_commits=true&rank_icon=github&theme=merko)
 
-![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CarlosSilva8&layout=compact&theme=merko&langs_count=8&size_weight=0.5&count_weight=0.5)
+![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CarlosSilva8&layout=compact&theme=merko&langs_count=8&hide=html,css,jupyter%20notebook)
 
-<sub>The language card uses public repositories and GitHub Linguist data, so notebook-heavy repositories can still influence the result.</sub>
 
 
 ---
